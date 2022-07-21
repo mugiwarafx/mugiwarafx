@@ -1,4 +1,5 @@
-https://dearalgorithm.github.io/joji_fx/
+https://dearalgorithm.com
+joji@dearalgorithm.com
 
 <!---
 mugiwarafx/mugiwarafx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
